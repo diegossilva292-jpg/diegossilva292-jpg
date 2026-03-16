@@ -3,7 +3,7 @@
 <h2>💻**Programador Front-End em constante evolução**</h1>
 <p>Atualmente estou estudando e desenvolvendo projetos com <b>Html</b> e <b>Css</b>, e iniciando meus estudos em <b>JavaScript</b> e <b>React</b>. 
 Meu foco é evoluir todos os dias e construir interfaces web modernas e funcionais.
-  <p align="right">
+  <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
