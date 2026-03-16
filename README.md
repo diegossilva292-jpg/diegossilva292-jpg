@@ -56,5 +56,5 @@ Meu foco é evoluir todos os dias e construir interfaces web modernas e funciona
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegossilva292-jpg)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/diegossilva292/diegossilva292/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/diegossilva292-jpg/diegossilva292-jpg/blob/output/github-contribution-grid-snake.svg)
 
