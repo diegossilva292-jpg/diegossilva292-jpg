@@ -12,7 +12,9 @@ Meu foco é evoluir todos os dias e construir interfaces web modernas e funciona
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="90" height="90"/
 </p>
 <br>
+
 ![Snake animation](https://github.com/diegossilva292-jpg/diegossilva292-jpg/blob/output/github-contribution-grid-snake.svg)
+
 </p>
 <h2> 🚀 Tecnologias que estou aprendendo</h2>
 <ul>
